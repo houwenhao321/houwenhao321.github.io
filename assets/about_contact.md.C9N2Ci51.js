@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e}from"./chunks/framework.DRvQ3jNO.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"about/contact.md","filePath":"about/contact.md"}'),o={name:"about/contact.md"};function c(n,r,s,p,_,d){return e(),a("div")}const f=t(o,[["render",c]]);export{m as __pageData,f as default};

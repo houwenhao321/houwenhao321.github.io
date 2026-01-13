@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.DRvQ3jNO.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"about/celebrityQuotes.md","filePath":"about/celebrityQuotes.md"}'),a={name:"about/celebrityQuotes.md"};function r(s,c,n,i,l,p){return o(),t("div")}const d=e(a,[["render",r]]);export{_ as __pageData,d as default};
